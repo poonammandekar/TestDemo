@@ -3,17 +3,17 @@ pipeline {
     stages {
         stage ('stage-1') {
             steps {
-                echo "hello velocity"
+                echo "dev"
             }
         }
             stage ('stage-2') {
             steps {
-                echo "hello velocity"
+                echo "dev"
             }
             }
             stage ('stage-3') {
             steps {
-                echo "hello velocity"
+                echo "dev"
             }
             }
         
